@@ -6,8 +6,9 @@ first run:
 ```bash
 qmake6
 ```
-it will create a Makefile and necesary things
-then run
+it will create a Makefile
+
+then run:
 ```bash
 make
 ```
