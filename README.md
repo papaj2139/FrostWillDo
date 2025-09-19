@@ -2,6 +2,10 @@
 Just a simple to-do app in C++ and QT6
 
 # Building
+get the code:
+```bash
+git clone https://github.com/papaj2139/FrostWillDo.git
+```
 first run:
 ```bash
 qmake6
